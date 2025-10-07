@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2025_10_07_Boros", "2025_10_07_Boros\2025_10_07_Boros.csproj", "{9C62A69B-4324-4D97-8CA7-FCA843FC61CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C62A69B-4324-4D97-8CA7-FCA843FC61CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C62A69B-4324-4D97-8CA7-FCA843FC61CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C62A69B-4324-4D97-8CA7-FCA843FC61CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C62A69B-4324-4D97-8CA7-FCA843FC61CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C2A0E94-E420-4978-813C-08C608E5B968}
+	EndGlobalSection
+EndGlobal
